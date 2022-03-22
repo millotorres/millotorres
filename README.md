@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @millotorres
-- 👀 I’m interested in electronics and race engine build
+- 👀 I’m interested in electronics and HP tunes.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
